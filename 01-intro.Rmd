@@ -1,0 +1,39 @@
+# **Overview** {-#intro}
+
+![](banners2.png)
+
+These datasets are intendented for reuse.
+
+**Target Audience**: Undergraduate students
+
+**Target Course(s)**: Ecology, biology, environmental sciences, resource management, statistics, data science, atmospheric sciences, GIS, sustainability, geology, sociology, chemistry, evolution, or similar
+
+**Background knowledge needed**: None
+
+**Prep Time**: 30 minutes
+
+**Lesson Duration**: 2-3 hours
+
+**Objectives**: By the end of this lesson, students will be able to….
+
+* Understand what a data repository is and why it is used
+* Connect how data storage fits into the data life cycle
+* Become familiar with basic data collection methods and their affiliated file formats
+* Find and download data from the Arctic Data Center
+* Learn what metadata is and why it’s important
+* Explain what open data is and why it is important for reproducibility
+
+
+**Learned skills**:
+ 
+* Finding the appropriate repository for different types of data and disciplines  
+* Navigating a repository and understanding general data science terminology
+* Creating a data management plan
+
+
+**Course Format**: 
+
+This module is meant to be taught within the timeframe of one lab period (or approximately 2 hours in length). Included in this lesson is an introductory video and prepared PowerPoint with time allotted for exploration into the Arctic Data Center’s repository and completion of an in-class assignment. Instructors may want to assign students additional out of classwork, or use additional modules to round out a full unit.
+
+
+**Suggested readings**: There are no required readings for this course, but feel free to recommend this introductory paper, “[Skills and Knowledge for Data-Intensive Environmental Research](https://academic.oup.com/bioscience/article/67/6/546/3784601?login=true)”.
