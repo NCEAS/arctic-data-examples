@@ -1,0 +1,15 @@
+# *Bonus: Arctic Happenings* {-#greenland}
+
+[Arctic Happenings](https://ahrl.rutgers.edu/greenland-lessons) is a four-part educational module designed for upper middle school, high school and undergraduate students.
+
+## Global Impacts of the Melting Greenland Ice Sheet and Melting Sea Ice {-#section-id} 
+
+![](images/greenlandmelt.jpg)
+
+**The "Dataset"**
+
+[Arctic Happenings - Global Impacts of the Melting Greenland Ice Sheet and Melting Sea Ice, 1961-2015.](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2TM7216N)
+
+These materials were created by Missy Holzer, Ph.D., Asa Rennermalm, Ph.D.. 
+
+All digital materials for this module are freely available online and include rich video and data resources plus step-by-step instructions. 

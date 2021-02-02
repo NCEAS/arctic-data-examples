@@ -1,1 +1,1 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+This is a compilation of datasets from the Arctic Data Center created for educational use in undergraduate classrooms. The materials in this bookdown are open source. 

@@ -7,13 +7,13 @@ biblio-style: apalike
 link-citations: yes
 ---
 # **Welcome** {-#index}
-![](banner1.png)
+![](images/banner1.png)
 
 The [Arctic Data Center](https://arcticdata.io/) is a place for researchers from around the world working in the Arctic to efficiently share, discover, access, and interpret complex data about the Arctic with less effort. Part of our mission is to provide hands on training at Arctic research conferences and in dedicated training sessions targeting Arctic researchers, especially early-career and under-represented populations. In 2020, we were able to support the development of undergraduate-level educational materials through our fellowship program. These materials are open source and available for reuse and/or modification either at the associated GitHub repository, the [Arctic Data Center Training page](http://training.arcticdata.io/), or the [DataOne Skillbuilding Hub](https://dataoneorg.github.io/Education/).
 
 ![](adcfacts.png)
 
-With over 5,700 datasets in the Arctic Data Center repository, these education modules are intended to equip students with the necessary tools and resources to unearth the story behind the data, one about one of the planet’s fastest-changing ecosystems: the Arctic.
+With over 5,700 datasets in the Arctic Data Center repository, these educational materials are intended to equip students with the necessary tools and resources to unearth the story behind the data, one about one of the planet’s fastest-changing ecosystems: the Arctic.
 
 Encompassing Earth’s northern most region, the Arctic is an icy sea surrounded by land characterized by a harsh climate with extreme variation in light and temperature. Diverse landscapes—from the sea ice to coastal wetlands, upland tundra, mountains, wide rivers, and the sea itself—support abundant wildlife and many cultures making the Arctic a region like no other in the world.
 
@@ -37,3 +37,12 @@ Studying and understanding the Arctic is essential txo saving it, and ultimately
 
 The National Wildlife Federation put together this [Activity Guide](https://www.nwf.org/~/media/PDFs/Be%20Out%20There/Schoolyard%20Habitats/ArcticEnvironment.pdf) if you'd like to learn more about the Arctic and climate change.
 
+## Overview {-#section}
+
+![](images/banners2.png)
+
+This bookdown is a compilation of datasets from the Arctic Data Center. Datasets were selected at random and contain data files ready for download and reuse. 
+
+For each of the datasets, there is some additional background information. This information was gathered from lab pages, associated journal articles, and/or related blog posts. They are meant to provide context and direction, but feel free to use the data as it suits your educational needs. 
+
+Please share how you or your students ended up using these datasets. We hope to see these be materials collaborative and evolving. Email info@arcticdata.io to add to the conversation.

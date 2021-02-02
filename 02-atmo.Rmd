@@ -1,0 +1,50 @@
+# **Atmospheric Science** {-#atmo}
+
+Datasets in this section are centered around atmospheric science, the study of the dynamics and chemistry of the layers of gas that surround the Earth, other planets and moons. This encompasses the interactions between various parts of the atmosphere as well as interactions with the oceans and freshwater systems, the biosphere and human activities. 
+
+## Surface energy budgets in the Polar Urals of Russia {-#atmo-section}
+
+<center>
+![](images/ural.jpg)
+*Landscape of Polar Ural mountains ([Source](https://peakvisor.com/range/ural-mountains.html))*
+</center>
+<br>
+<p>
+
+**The Data**
+
+[Surface energy budgets in the Polar Urals of Russia, summer 2015-2017.](https://arcticdata.io/catalog/view/doi:10.18739/A2C824D80)
+
+This dataset is brought to you by Valeriy Mazepa, Valeriy Ivanov, Stepan Shiyatov, and Aleksey Sheshukov. The Principal Investigator, [Valeriy Mazepa](https://cee.engin.umich.edu/people/valeriy-ivanov/) (he/him), is a hydrologist interested in how climate and topography affect water, energy, and vegetation dynamics in natural landscapes. Currently, he is a Professor at the University of Michigan, Ann Arbor.
+
+The full paper associated with this dataset is avalible [here](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD030650).
+
+**What we know**
+
+The Arctic has been warming at an accelerating rate. A significant expansion of larch forests to moss-lichen and heath tundra areas over the past 50-60 years has been documented in western Siberia, with horizontal displacement rates of 32-58 meters per decade and altitudinal rates of 3-4 meters per decade. These vegetation changes may have the potential to impact regional hydrology and climate. 
+
+**What we found out**
+
+Growing season latent and sensible heat flux are nearly equal over the Arctic permafrost tundra regions. Persistent ground heat flux into the subsurface layer leads to seasonal thaw of the top permafrost layer. The Maximum Energy Production model accurately estimates the latent, sensible, and ground heat flux of the surface energy budget of the Arctic permafrost regions.
+
+## Atmospheric tracers for Arctic wildfires, air pollution, atmospheric chemistry, and climate change at GEOSummit, Greenland {-#section-two}
+
+<center>
+![](images/airgeo.jpg)
+*The GEOSummit ([Source](https://www.geosummit.org/))*
+</center>
+<br>
+<p>
+**The Data**
+
+[Atmospheric tracers for Arctic wildfires, air pollution, atmospheric chemistry, and climate change at GEOSummit, Greenland, since 2018.](https://arcticdata.io/catalog/view/urn%3Auuid%3A61c15d4d-5a8d-4ac7-82ae-7c1759b5b1ad)
+
+This dataset is brought to you by Hélène Angot, Detlev Helmig, Jacques Hueber, Jashan Chopra, Connor Davel, et al. The Principal Investigator, [Christine Wiedinmyer](https://cee.engin.umich.edu/people/valeriy-ivanov/) (she/her), is the Associate Director for Science at Cooperative Institute for Research in Environmental Sciences at the University of Colorado Boulder. Her research has focused on the emissions of trace gases and particles to the atmosphere and how these emissions impact atmospheric composition, air quality, and climate. She also investigates the effects of global change on these processes, such as how land cover and land use change alter the fluxes of trace gases to the atmosphere. 
+
+**What we know**
+
+There has been an unprecedented increase in Arctic wildfire occurrences in recent years. This Arctic Observing Network (AON) project focuses on the study of Arctic tundra wildfires through continuous observations of atmospheric fire tracers, including carbon monoxide, methane, and a series of volatile organic compounds (VOCs) monitored at the Greenland Environmental Observatory at Summit ([GEOSummit](https://www.geosummit.org/)), the only high altitude, high latitude, inland, year‐round observing station in the Arctic. 
+
+**What the data is about**
+
+This dataset is an archive of methane, carbon monoxide, carbon dioxide, and VOCs (ethane, propane, iso-butane, n-butane, acetylene, iso-pentane, n-pentane, n-hexane, benzene, toluene) ambient air mixing ratios collected at GEOSummit since 2018 updated regularly. These observations will be applied in modeling research to simulate Arctic wildfires, and to assess climate-change induced increase in Arctic wildfires and their feedbacks on the Arctic environment.
