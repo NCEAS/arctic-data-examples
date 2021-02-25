@@ -1,6 +1,6 @@
 # **Ecology** {-#ecology} 
 
-The following dataset(s) are primarly ecology focused. Ecology is the study of how organisms interact with one another and with their physical environment. The distribution and abundance of organisms on Earth is shaped by both biotic, living-organism-related, and abiotic, nonliving or physical, factors. Ecology is studied at many levels, including organism, population, community, ecosystem, and biosphere. Read more about the study of ecology [here](https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/a/what-is-ecology).
+The following dataset(s) are ecology focused. Ecology is the study of how organisms interact with one another and with their physical environment. The distribution and abundance of organisms on Earth is shaped by both biotic, living-organism-related, and abiotic, nonliving or physical, factors. Ecology is studied at many levels, including organism, population, community, ecosystem, and biosphere. Read more about the study of ecology [here](https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/a/what-is-ecology).
 
 ## Labeling study of water use by tundra evergreens in the winter spring transition {-#this-section}
 

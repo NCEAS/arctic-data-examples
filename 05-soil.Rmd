@@ -1,6 +1,6 @@
 # **Soil Science** {-#soil} 
 
-Soil science is the science dealing with soils as a natural resource on the surface of the Earth including soil formation, classification, and mapping; physical, chemical, biological, and fertility properties of soils; and these properties in relation to the use and management of the soils.
+Soil science is the science dealing with soils as a natural resource on the surface of the Earth including soil formation, classification, and mapping; physical, chemical, biological, and fertility properties of soils; and these properties in relation to the use and management of the soils. Dataset(s) will help you explore Arctic soil science. S
 
 ##  Soil respiration, water chemistry, and soil gas data for thermokarst features and undisturbed tundra on the North Slope of Alaska {-#new-section}
 

@@ -1,6 +1,6 @@
 # **Paleontology/Paleoecology** {-#paleo}
 
-The following dataset(s) are primarly "paleo-" focused. "Paleo-" is a latin prefix meaning “old” or “ancient,” especially in reference to former geologic time periods. This section will feature datasets from the paleontology and paleoecology branches of science.
+The following dataset(s) are "paleo-" focused. "Paleo-" is a latin prefix meaning “old” or “ancient,” especially in reference to former geologic time periods. This section will feature datasets from the paleontology and paleoecology branches of science.
 
 Paleontology is the study of the history of life on Earth as based on fossils. Fossils are the remains of plants, animals, fungi, bacteria, and single-celled living things that have been replaced by rock material or impressions of organisms preserved in rock.
 

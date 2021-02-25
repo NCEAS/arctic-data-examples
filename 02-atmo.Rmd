@@ -1,11 +1,11 @@
 # **Atmospheric Science** {-#atmo}
 
-Datasets in this section are centered around atmospheric science, the study of the dynamics and chemistry of the layers of gas that surround the Earth, other planets and moons. This encompasses the interactions between various parts of the atmosphere as well as interactions with the oceans and freshwater systems, the biosphere and human activities. 
+Atmospheric science is the study of the dynamics and chemistry of the layers of gas that surround the Earth, other planets and moons. This encompasses the interactions between various parts of the atmosphere as well as interactions with the oceans and freshwater systems, the biosphere and human activities. 
 
 ## Surface energy budgets in the Polar Urals of Russia {-#atmo-section}
 
 <center>
-![](images/ural.jpg)
+![](images/ural.jpg
 *Landscape of Polar Ural mountains ([Source](https://peakvisor.com/range/ural-mountains.html))*
 </center>
 <br>

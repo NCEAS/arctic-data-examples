@@ -1,6 +1,6 @@
 # **Biology** {-#bio} 
 
-Below, you'll find datasets biology focused. Biology is the study of living organisms, divided into many specialized fields that cover their morphology, physiology, anatomy, behavior, origin, and distribution.
+Below, you'll find datasets from the field of biology. Biology is the study of living organisms, divided into many specialized fields that cover their morphology, physiology, anatomy, behavior, origin, and distribution.
 
 ## Adaptive long-term fasting in land and ice-bound polar bears {-#section-bears}
 

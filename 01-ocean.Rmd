@@ -2,9 +2,9 @@
 
 This section features datasets from the field of oceanography, the study of the physical and biological aspects of the ocean. 
 
-The Arctic ocean is, on average, the shallowest of Earth’s oceans. The Arctic Ocean’s complex oceanographic configuration is tightly linked to the atmosphere, the land, and the cryosphere. The physical dynamics not only drive important climate and global circulation patterns, but also control biogeochemical cycles and ecosystem dynamics. Current changes in Arctic sea-ice thickness and distribution, air and water tempera=tures, and water column stability are resulting in measurable shifts in the properties and functioning of the ocean and its ecosystems. 
+The Arctic Ocean is the shallowest ocean on Earth. It's complex oceanographic configuration is tightly linked to the atmosphere, the land, and the cryosphere. The physical dynamics not only drive important climate and global circulation patterns, but also control biogeochemical cycles and ecosystem dynamics. Current changes in Arctic sea-ice thickness and distribution, air and water temperatures, and water column stability are resulting in measurable shifts in the properties and functioning of the ocean and its ecosystems. 
 
-The Arctic Ocean is forecast to shift to a seasonally ice-free ocean resulting in changes to physical, chemical, and biological processes. These include the exchange of gases across the atmosphere-ocean interface, the wind-driven ciruclation and mixing regimes, light and nuti lrient availability for primary production, food web dynamics, and export of material to the deep ocean. In anticipation of these changes, extending our knowledge of the present Arctic oceanography and these complex changes has never been more urgent. 
+The Arctic Ocean is forecast to shift to a seasonally ice-free ocean resulting in changes to physical, chemical, and biological processes. These include the exchange of gases across the atmosphere-ocean interface, the wind-driven circulation and mixing regimes, light and nutrient availability for primary production, food web dynamics, and export of material to the deep ocean. In anticipation of these changes, extending our knowledge of the present Arctic oceanography and these complex changes has never been more urgent. 
 
 ## Frost flowers on young Arctic sea ice {-#section}
 

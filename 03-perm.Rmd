@@ -1,6 +1,6 @@
 # **Permafrost** {-#perm}
 
-Datasets here focus on the study of the Arctic permafrost. Permafrost is any type of ground—from soil to sediment to rock—that has been frozen continuously for a minimum of two years and as many as hundreds of thousands of years. Read more about this amazing phenomenon [here](https://www.nrdc.org/stories/permafrost-everything-you-need-know). 
+In this section, datasets will focus on the study of the Arctic permafrost. Permafrost is any type of ground—from soil to sediment to rock—that has been frozen continuously for a minimum of two years and as many as hundreds of thousands of years. Read more about this amazing phenomenon [here](https://www.nrdc.org/stories/permafrost-everything-you-need-know). 
 
 ## Thaw depth and water table in the footprint of five eddy covariance tower sites, Alaskan Arctic {-#section-perm}
 

@@ -1,6 +1,6 @@
 # **Environmental Management** {-#mangement}
 
-The dataset(s) featured in this section are primarly environmental mangement focused. Environmental management is concerned with the understanding of the structure and function of the earth system, as well as of the ways in which humans relate to their environment. Environmental management is therefore concerned with the description and monitoring of environmental changes, with predicting future changes and with attempts to maximise human benefit and to minimise environmental degradation due to human activities. Read more [here](https://www.soas.ac.uk/cedep-demos/000_P500_ESM_K3736-Demo/unit1/page_10.htm). 
+The dataset(s) featured in this section focus on environmental management. Environmental management is concerned with the understanding of the structure and function of the earth system, as well as of the ways in which humans relate to their environment. Environmental management is therefore concerned with the description and monitoring of environmental changes, with predicting future changes and with attempts to maximise human benefit and to minimise environmental degradation due to human activities. Read more [here](https://www.soas.ac.uk/cedep-demos/000_P500_ESM_K3736-Demo/unit1/page_10.htm). 
 
 ##  Sustaining ecological and subsistence functions in conservation areas: eider habitat and access by Native hunters along landfast ice, Alaska {-#section-eider}
 
