@@ -35,7 +35,7 @@ Encompassing Earth’s northern most region, the Arctic is an icy sea that is su
 </center>
 <div style="background: #ffffff; position: relative; height: 15px; right: 0px; left: 0px;"></div>
 
-The Arctic is warming twice as fast as the global average. The cause of such rapid warming is straightforward and well understood: it is human-caused climate change, and it is altering the relative amount of the Sun's energy that is absorbed, reflected, or radiated in the Arctic. 
+The Arctic is warming twice as fast as the global average [(Serreze & Barry, 2011)](https://doi.org/10.1016/j.gloplacha.2011.03.004). The cause of such rapid warming is straightforward and well understood: it is human-caused climate change, and it is altering the relative amount of the Sun's energy that is absorbed, reflected, or radiated in the Arctic. 
 
 <center>
 <div style="background: #ffffff; position: relative; height: 25px; right: 0px; left: 0px;"></div>
@@ -43,7 +43,7 @@ The Arctic is warming twice as fast as the global average. The cause of such rap
 <div style="background: #ffffff; position: relative; height: 25px; right: 0px; left: 0px;"></div>
 </center>
 
-According to [15th annual NOAA Arctic Report Card](https://arctic.noaa.gov/Report-Card/Report-Card-2020), the sea ice extent in October of 2020 dropped to the lowest levels on record. Dramatic drops in Arctic ice like this are the main driver for rapid Arctic changes. Effects of a warming atmosphere on physical, chemical, biological, and human components of Arctic ecosystems are myriad, far-reaching, and accelerating. There is no facet of Arctic life that will remain untouched by the immensity of these changes.
+According to [15th annual NOAA Arctic Report Card](https://arctic.noaa.gov/Report-Card/Report-Card-2020), the sea ice extent in October of 2020 dropped to the lowest levels on record. Dramatic drops in Arctic ice like this are the main driver for rapid Arctic changes. Effects of a warming atmosphere on physical, chemical, biological, and human components of Arctic ecosystems are myriad, far-reaching, and accelerating (Wendisch 2017)[https://doi.org/10.1029/2017EO064803]. There is likely no facet of Arctic life that will remain untouched by the immensity of these changes.
 
 Studying and understanding the Arctic is essential to saving it, and ultimately ourselves. The [Arctic Data Center repository](https://arcticdata.io/catalog/) is rich with real-world Arctic data just waiting to be explored. If you're ready to learn how, let's get started.
 
