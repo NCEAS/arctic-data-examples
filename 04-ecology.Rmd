@@ -1,29 +1,29 @@
 # **Ecology** {-#ecology} 
 
-The following dataset(s) are ecology focused. Ecology is the study of how organisms interact with one another and with their physical environment. The distribution and abundance of organisms on Earth is shaped by both biotic, living-organism-related, and abiotic, nonliving or physical, factors. Ecology is studied at many levels, including organism, population, community, ecosystem, and biosphere. Read more about the study of ecology [here](https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/a/what-is-ecology).
+The following datasets are ecology focused. Ecology is the study of how organisms interact with one another and with their physical environment. The distribution and abundance of organisms on Earth is shaped by both biotic - living organism-related - and abiotic - nonliving or physical - factors. Ecology is studied at many levels, including organism (one creature), population (a group of creatures of the same type), community (a few populations), ecosystem (the interaction of most communities in a region), and biosphere (across the whole planet). Read more about the study of ecology [here](https://www.khanacademy.org/science/biology/ecology/intro-to-ecology/a/what-is-ecology).
 
 ## Labeling study of water use by tundra evergreens in the winter spring transition {-#this-section}
 
 <center>
 ![](images/evergreen.jpg)
-*Co-PI, Steve Oberbauer, at Toolik Field Station — one of the world’s most remote research sites, located hundreds of miles above the Arctic circle. ([Source](https://communitynewspapers.com/florida-international-university/were-better-off-if-things-stay-frozen-says-fiu-arctic-researcher/))*
+*Co-PI Steve Oberbauer at Toolik Field Station — one of the world’s most remote research sites, hundreds of miles above the Arctic circle. ([Source](https://communitynewspapers.com/florida-international-university/were-better-off-if-things-stay-frozen-says-fiu-arctic-researcher/))*
 </center> 
 <p>
 **The Data**
 
 [Labeling study of water use by tundra evergreens in the winter spring transition.](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA22V2CB1P)
 
-This dataset is brought to you by [Steven F. Oberbauer](http://faculty.fiu.edu/~oberbaue/), Jonathan Moser, Gregory Starr, and Behzad Mortazavi. 
+This dataset is brought to you by [Steven F. Oberbauer](http://faculty.fiu.edu/~oberbaue/), Jonathan Moser, Gregory Starr, and Behzad Mortazavi. Steven Oberbauer (he/him) is a Professor and the Chairperson of the Biological Sciences Department at Florida International University. His research interests include plant and ecosystem physiology, energy balance, plant phenology and productivity of vascular plants and bryophytes, particularly in response to climate change.
 
 The full paper associated with this dataset is avalible [here](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1500358).
 
 **What We Know**
 
-The cold season in the Arctic extends over 8 to 9 mo, yet little is known about vascular plant physiology during this period. Evergreen species photosynthesize under the snow, implying that they are exchanging water with the atmosphere. However, liquid water available for plant uptake may be limited at this time. 
+The cold season in the Arctic extends over 8 to 9 months, yet little is known about what happens inside vascular plant physiology during this period. Evergreen species like pines photosynthesize under the snow, implying that they are exchanging water with the atmosphere. However, liquid water available for plant uptake may be limited at this time. 
 
 **What we found out**
 
-Evergreen tundra plants take up water under snow cover, some via roots, but also likely by foliar uptake. The ability to take up water in the subnivean environment allows evergreen tundra plants to take advantage of mild spring conditions under the snow and replenish carbon lost by winter respiration.
+Evergreen tundra plants take up water under snow cover, some via roots, but also likely by foliar, or leaf, uptake. The ability to take up water in the subnivean (underneath the snow) environment allows evergreen tundra plants to take advantage of mild spring conditions under the snow and replenish carbon lost by winter respiration.
 
 <br>
 </p>
@@ -36,27 +36,27 @@ Evergreen tundra plants take up water under snow cover, some via roots, but also
 <p>
 **The Data**
 
-[Effects of aufeis on the structure and function of Arctic river-floodplain ecosystems, Alaska, 2016-2017](https://arcticdata.io/catalog/view/doi:10.18739/A20P0WR15)
+[Effects of aufeis on the structure and function of Arctic river-floodplain ecosystems, Alaska, 2016-2017.](https://arcticdata.io/catalog/view/doi:10.18739/A20P0WR15)
 
-This dataset is brought to you by Michael Gooseff and Alex Huryn. [Michael Gooseff](http://goosefflab.weebly.com/about-me--cv.html) (he/him), a Professor in the Institute of Arctic and Alpine Research (INSTAAR) and in the Department of Civil Architectural & Environmental Engineering at the University of Colorado.  He is currently the Lead Principal Investigator of the McMurdo Dry Valleys LsTER project and the Co-Director of the Hydrologic Sciences Graduate Program at CU. Dr. Gooseff conducts on-going research in Arctic Alaska, mostly from the Toolik Field Station and continues research in Antarctica. 
+This dataset is brought to you by Michael Gooseff and Alex Huryn. [Michael Gooseff](http://goosefflab.weebly.com/about-me--cv.html) (he/him) is a Professor in the Institute of Arctic and Alpine Research (INSTAAR) and in the Department of Civil Architectural & Environmental Engineering at the University of Colorado.  He is currently the Lead Principal Investigator of the McMurdo Dry Valleys LTER project and the Co-Director of the Hydrologic Sciences Graduate Program at CU. Dr. Gooseff conducts ongoing research in Arctic Alaska, mostly from Toolik Field Station, and also conducts research in Antarctica. 
 
-The paper associated with this dataset is avalible [here](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11626). Check out the research webpage [here](http://goosefflab.weebly.com/arctic-oases---aufeis-influence-on-arctic-river-ecosystems.html).
+The paper associated with this dataset is avalible [here](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11626). Additionally, this project has a webpage; check out the research webpage [here](http://goosefflab.weebly.com/arctic-oases---aufeis-influence-on-arctic-river-ecosystems.html).
 
 **What We Know**
 
-[Aufeis](https://www.polartrec.com/expeditions/microbial-changes-in-arctic-freshwater-2016/journals/2016-06-20) are massive accumulations of ice that are features of many arctic rivers. They form during freeze-up when thickening surface ice causes local overflows. Successive cycles of overflow result in accumulations of enormous volumes of ice, with aufeis on some Alaskan rivers attaining thicknesses of 3-5 meters, covering more than 20 square kilometers, and storing as much as 30% of the annual river discharge. 
+[Aufeis](https://www.polartrec.com/expeditions/microbial-changes-in-arctic-freshwater-2016/journals/2016-06-20) (German for "ice on top") is a collection of massive accumulations of ice that are common to many Arctic rivers. It forms during freeze-up when thickening surface ice on the river causes local overflows. Successive cycles of overflow result in accumulations of enormous volumes of ice, with aufeis on some Alaskan rivers attaining thicknesses of 3-5 meters (9-15 feet), covering more than 20 square kilometers (7.72 square miles), and storing as much as 30% of the annual river discharge. 
 
-Although aufeis have been studied by hydrologists and are known to be required for winter and spawning habitat for some fish, understanding of their ecology is poor.
+Although aufeis has been studied by hydrologists and is known to be required for winter and spawning habitat for some fish, understanding of their ecology is poor.
 
 **What we found out**
 
-The Kuparuk aufeis field provides subsurface habitat for a rich assemblage of freshwater invertebrates distinct from those occurring in surface level habitats. This level of richness is presumably enabled by the relatively high porosity of the subsurface sediments combined with a high level of connectivity between pore spaces. To our knowledge, this is the first demonstration of a groundwater (e.g., hyporheic/parafluvial/groundwater) invertebrate fauna in a region of continuous permafrost.
+The Kuparuk aufeis field provides subsurface habitat for a rich assemblage of freshwater invertebrates, which are distinct from those that live in surface level habitats. This level of richness is presumably enabled by the relatively high porosity of the subsurface sediments combined with a high level of connectivity between pore spaces. To our knowledge, this is the first demonstration of a groundwater (e.g., hyporheic/parafluvial/groundwater) invertebrate fauna in a region of continuous permafrost.
 </p>
 <br>
 <center>
 ![](images/ecology2a.jpg){width="50%"}
 </center>
 <p>
-*Rarefaction curves for invertebrates sampled from wells (closed circles) and surface sediments (open circles). The mean cumulative number of taxa per number of samples is plotted as a function of accumulated number of individuals sampled.*
+*Rarefaction curves for invertebrates sampled from aufeis wells (closed circles) and surface sediments (open circles). The mean cumulative number of taxa per number of samples is plotted as a function of accumulated number of individuals sampled.*
 
-*Note: In ecology, [rarefaction](https://en.wikipedia.org/wiki/Rarefaction_(ecology)) is a technique to assess species richness from the results of sampling. Rarefaction allows the calculation of species richness for a given number of individual samples, based on the construction of so-called rarefaction curves. This curve is a plot of the number of species as a function of the number of samples. Rarefaction curves generally grow rapidly at first, as the most common species are found, but the curves plateau as only the rarest species remain to be sampled.*
+*Note: In ecology, [rarefaction](https://en.wikipedia.org/wiki/Rarefaction_(ecology)) is a technique to assess species richness from the results of sampling. Rarefaction allows the calculation of species richness for a given number of individual samples based on the construction of so-called rarefaction curves. This curve is a plot of the number of species as a function of the number of samples. Rarefaction curves generally grow rapidly at first, as the most common species are found, but the curves plateau as only the rarest species remain to be sampled.*
