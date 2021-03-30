@@ -6,7 +6,7 @@ The Arctic Ocean is the shallowest ocean on Earth. Its complex oceanographic con
 
 The Arctic Ocean is forecasted to shift to a seasonally ice-free ocean resulting in changes to physical, chemical, and biological processes [(Notz & Stroeve, 2018)](https://doi.org/10.1007/s40641-018-0113-2). These changes include the exchange of gases across the atmosphere-ocean interface, the wind-driven circulation and mixing regimes, light and nutrient availability for primary production, food web dynamics, and export of material to the deep ocean. In anticipation of these changes, extending our knowledge of the present Arctic oceanography and these complex changes has never been more urgent. 
 
-## Frost flowers on young Arctic sea ice {-#section}
+## Frost flowers on young Arctic sea ice {-#ocean-section}
 
 <center>
 ![](images/frostflowers.jpg)

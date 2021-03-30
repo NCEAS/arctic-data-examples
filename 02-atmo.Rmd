@@ -1,11 +1,11 @@
 # **Atmospheric Science** {-#atmo}
 
-Atmospheric science is the study of the dynamics and chemistry of the layers of gas that surround the Earth, other planets and moons. This encompasses the interactions between various parts of the atmosphere as well as interactions with the oceans and freshwater systems, the biosphere and human activities. 
+Atmospheric science is the study of the dynamics and chemistry of the layers of gas that surround the Earth, other planets and moons. This encompasses the interactions between various parts of the atmosphere as well as interactions with the oceans and freshwater systems, the biosphere and human activities [(Nature Research)](https://www.nature.com/subjects/atmospheric-science). 
 
 ## Surface energy budgets in the Polar Urals of Russia {-#atmo-section}
 
 <center>
-![](images/ural.jpg
+![](images/ural.jpg)
 *Landscape of Polar Ural mountains ([Source](https://peakvisor.com/range/ural-mountains.html))*
 </center>
 <br>
@@ -21,7 +21,13 @@ The full paper associated with this dataset is avalible [here](https://agupubs.o
 
 **What we know**
 
-The Arctic has been warming at an accelerating rate. A significant expansion of larch forests to moss-lichen and heath tundra areas over the past 50-60 years has been documented in western Siberia, with horizontal displacement rates of 32-58 meters per decade and altitudinal rates of 3-4 meters per decade. These vegetation changes may have the potential to impact regional hydrology and climate. 
+The Arctic has been warming at an accelerating rate over the last decade. A significant expansion of larch *forests* to moss-lichen and heath *tundra* areas over the past 50-60 years has been documented in western Siberia, with horizontal displacement (that is, the slantiness of the tree - see below photo from [Krause et al. 2013](https://doi.org/10.1016/j.foreco.2013.03.048)) rates of 32-58 meters per decade and altitudinal (height above sea level) rates of 3-4 meters per decade. These vegetation changes may have the potential to impact regional hydrology and climate. 
+
+<center>
+![](images/horizontaldisplacement.jpg)
+</center>
+<br>
+<p>
 
 **What we found out**
 
