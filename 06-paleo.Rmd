@@ -6,7 +6,7 @@ Paleontology is the study of the history of life on Earth as based on fossils. F
 
 Paleoecology is the study of interactions between once-living organisms and their environmental surroundings. Interactions between organisms can take a variety of forms, including competition between similar organisms for resources, predation of one organism by another, and symbiosis between different organisms to enable each organism to survive and reproduce. Read more [here](https://www.digitalatlasofancientlife.org/learn/paleoecology/).
 
-## Using sediment core data to better understand the wooly mammoth extinction {-#my-section}
+## Using sediment core data to better understand the woolly mammoth extinction {-#new-section}
 
 ![](images/mammoths.png)
 <br>
@@ -16,21 +16,21 @@ Paleoecology is the study of interactions between once-living organisms and thei
 
 [Sediment core data related to the extinction of Mammuthus primigenius, St. Paul Island, Alaska, 2014.](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA24746R6K)
 
-This dataset is brought to you by [Matthew Wooller](https://www.uaf.edu/cfos/people/faculty/detail/matthew-wooller.php) (he/him/his), an interdisciplinary scientist, applying stable isotope techniques to understand the influence of changing environmental conditions on past and present ecosystems.
+This dataset is brought to you by [Matthew Wooller](https://www.uaf.edu/cfos/people/faculty/detail/matthew-wooller.php) (he/him), an interdisciplinary scientist who works on applying stable isotope techniques to understand the influence of changing environmental conditions on past and present ecosystems. Isotopes (of C,N,O,H and Sr) feature as the primary analytical tools that Dr. Wooller uses to study a wide range of environmental and ecological questions. 
 
-The full paper associated with this dataset is avalible [here](https://www.pnas.org/content/113/33/9310).
+The full paper associated with this dataset is available [here](https://www.pnas.org/content/113/33/9310).
 
 **What We Know**
 
-Relict woolly mammoth (Mammuthus primigenius) populations survived on several small Beringian islands for thousands of years after mainland populations went extinct.
+Relict woolly mammoth (Mammuthus primigenius) populations survived on several small [Beringian](https://www.nps.gov/articles/aps-v12-i2-c8.htm) islands for thousands of years after mainland populations went extinct.
 
-Five independent indicators of extinction show that mammoths survived on St. Paul until 5,600 ± 100 years ago. Vegetation composition remained stable during the extinction window, and there is *no evidence* of human presence on the island before 1787 CE, suggesting tha=t these factors were not extinction drivers. 
+Five independent indicators of extinction show that mammoths survived on St. Paul - one of those islands - until 5,600 ± 100 years ago. Vegetation composition remained stable during the extinction window, and there is no evidence of human presence on the island before 1787 CE, suggesting that neither of these factors were extinction drivers. 
 
 **What we found out**
 
-Instead, the extinction coincided with declining freshwater resources and drier climates between 7,850 and 5,600 years ago, as inferred from sedimen-tary magnetic susceptibility, oxygen isotopes, and diatom and cla-doceran assemblages in a sediment core from a freshwater lake on the island, and stable nitrogen isotopes from mammoth remains. 
+Instead, the extinction coincided with declining freshwater resources and drier climates between 7,850 and 5,600 years ago, as inferred from sedimentary magnetic susceptibility, oxygen isotopes, and diatom and cladoceran assemblages in a sediment core from a freshwater lake on the island, and stable nitrogen isotopes from mammoth remains. 
 
-Contrary to other extinction models for the St. Paul mammoth population , this evidence indicates that this mammoth population died out because of the synergistic effects of shrinking island area and freshwater scarcity caused by rising sea levels and regional climate change. Degradation of water quality by intensified mammoth activity around the lake likely exacerbated the situation. The St. Paul mammoth demise is now one of the best-dated prehistoric extinctions, highlighting freshwater limitation as an overlooked extinction driver and underscoring the vulnerability of small island populations to environmental change, even in the absence of human influence.
+Contrary to other extinction models for the St. Paul mammoth population, this new evidence indicates that this mammoth population died out because of the synergistic effects of shrinking island area and freshwater scarcity caused by rising sea levels and regional climate change. Degradation of water quality by intensified mammoth activity around the lake likely exacerbated the situation. The St. Paul mammoth demise is now one of the best-dated prehistoric extinctions, highlighting freshwater limitation as an overlooked extinction driver and underscoring the vulnerability of small island populations to environmental change, even in the absence of human influence.
 </p>
 <br>
 <center> 
@@ -38,5 +38,5 @@ Contrary to other extinction models for the St. Paul mammoth population , this e
 </center>
 <br>
 
-*Paleoenvironmental proxies at Lake Hill, plotted against time. (View the paper for the full caption.)*
+*Paleoenvironmental proxies at Lake Hill, plotted against time. Shown are relative abundances of planktonic (blue bars), tychoplanktonic (maroon bars), and high-conductivity–tolerant diatoms (orange bars); ratio of pelagic and littoral cladocerans (gray curve); relative abundance (%) of cladoceran Alona circumfibriata, which is tolerant of high lake water conductivity (purple bars); δ18O values from aquatic invertebrate chitin (blue curve); δ15N values from mammoth collagen (red curve); sediment magnetic susceptibility (in AU); and accumulation rates for herb and shrub pollen types (light green and tan curves, respectively). The estimated timing of extinction is indicated by the yellow vertical bar (Graham et al. 2016).*
 <center> 
