@@ -1,6 +1,6 @@
 # *Bonus: Arctic Happenings* {-#greenland}
 
-[Arctic Happenings](https://ahrl.rutgers.edu/greenland-lessons) is a four-part educational module designed for upper middle school, high school and undergraduate students.
+[Arctic Happenings](https://ahrl.rutgers.edu/greenland-lessons) is a four-part educational module series designed for upper middle school, high school, and undergraduate students.
 
 ## Global Impacts of the Melting Greenland Ice Sheet and Melting Sea Ice {-#section-id} 
 
@@ -10,6 +10,16 @@
 
 [Arctic Happenings - Global Impacts of the Melting Greenland Ice Sheet and Melting Sea Ice, 1961-2015.](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2TM7216N)
 
-These materials were created by Missy Holzer, Ph.D., Asa Rennermalm, Ph.D.. 
+These materials were created by [Dr. Missy Holzer](https://www.amnh.org/learn-teach/seminars-on-science/about/faculty/margaret-holzer) and [Dr. Åsa Rennermalm](https://ahrl.rutgers.edu/). Dr. Holzer (she/her) is a veteran high school teacher of Earth & Space Science, Physical Geography, and AP Environmental Science in Chatham, NJ. Dr. Rennermalm (she/her) is an associate professor of Geography at Rutgers University.
 
-All digital materials for this module are freely available online and include rich video and data resources plus step-by-step instructions. 
+All digital materials and the [publication](https://www.nestanet.org/cms/sites/default/files/journal/Holzer_Winter19.pdf) for this module are freely available online and include rich video and data resources plus step-by-step instructions. 
+
+This teaching module consists of four activities:
+
+Activity 1: My Burning Feet (Engage)
+
+Activity 2: From burning feet to the Greenland Ice Sheet: Examining model estimates of Greenland ice sheet mass loss, its drivers, and its impact on global sea levels (Explore and Explain)
+
+Activity 3: Should I Move Inland? What About Others Around the World - Should They Move to Higher Ground? (Elaborate)
+
+Activity 4: How Does Melting Arctic Ice (sea ice &amp;amp;amp; ice sheets) Impact the Climate Where I live? (Evaluate)
