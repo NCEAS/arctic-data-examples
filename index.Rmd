@@ -10,11 +10,11 @@ link-citations: yes
 
 ![](images/banners2.png)
 
-This is a compilation of datasets from the Arctic Data Center, the primary repository for the Arctic Section of the National Science Foundation's Office of Polar Programs. Each of these sections contains open source, CC-0 or CC-BY data files ready for download and reuse. 
+This is a compilation of datasets from the [Arctic Data Center](https://arcticdata.io/), the primary repository for the Arctic Section of the National Science Foundation's Office of Polar Programs. Each of these sections contains open source data files ready for download and reuse. 
 
-In this Bookdown, you'll find additional background information about the dataset gathered from that dataset creator's lab pages, associated journal articles, and related blog posts. They are meant to provide context and direction for using the dataset in a classroom setting, but feel free to use the data as it suits your educational needs. 
+In this Bookdown, you'll find additional background information about the dataset gathered from that dataset creator's lab pages, associated journal articles, and related blog posts. This additional information is meant to provide context and direction for using the dataset in a classroom setting, but feel free to use the data as it suits your educational needs. 
 
-Please share how you or your students are using these datasets. We hope to see these materials evolve in a collaborative manner. Email info@arcticdata.io to add to the conversation, or contribute on the [github](https://github.com/NCEAS/arctic-data-examples) issues tab.
+Please share with us how you or your students are using these datasets. We hope to see these materials evolve in a collaborative manner. Email [info@arcticdata.io](mailto:info@arcticdata.io) to add to the conversation, or contribute on the [github](https://github.com/NCEAS/arctic-data-examples) issues tab.
 
 ## Overview {-#section}
 
@@ -23,17 +23,17 @@ Please share how you or your students are using these datasets. We hope to see t
 The [Arctic Data Center](https://arcticdata.io/) is a place for researchers from around the world working in the Arctic to efficiently share, discover, access, and interpret complex data about the Arctic with less effort. Part of our mission is to provide hands-on training to researchers and students at Arctic and domain research conferences, as well as in dedicated training sessions targeting Arctic researchers. We especially target early-career and under-represented populations for our training opportunities. In 2020, we were able to support the development of undergraduate-level educational materials through our data fellowship program ([NSF award number 1546024](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1546024)). These materials are open source and available for reuse and/or modification either at the associated [Github](https://github.com/NCEAS/arctic-data-examples) repository, the [Arctic Data Center Training page](http://training.arcticdata.io/), or the [DataONE Skillbuilding Hub](https://dataoneorg.github.io/Education/).
 
 ![](images/adcfacts.png)
-(Numbers last updated January 2021.)
+<center>**(Numbers last updated January 2021.)**</center>
 
 With over 6300 datasets, the Arctic Data Center repository is uniquely positioned to help more students understand one about one of the planet’s fastest-changing ecosystems: the Arctic. These educational materials are intended to equip students with the necessary tools and resources to unearth the story behind just a few of the datasets in the data catalog.
 
 Encompassing Earth’s northern most region, the Arctic is an icy sea that is surrounded by land, characterized by a harsh climate with extreme variation in light and temperature. Diverse landscapes — from the sea ice to coastal wetlands, upland tundra, mountains, wide rivers, and the sea itself — support abundant wildlife, geological features, and many cultures, making the Arctic a region like no other in the world.
 
-<div style="background: #ffffff; position: relative; height: 15px; right: 0px; left: 0px;"></div>
+<div style="background: #B3E1E7; position: relative; height: 15px; right: 0px; left: 0px;"></div>
 <center>
 **However, what happens in the Arctic doesn’t stay in the Arctic.**
 </center>
-<div style="background: #ffffff; position: relative; height: 15px; right: 0px; left: 0px;"></div>
+<div style="background: #B3E1E7; position: relative; height: 15px; right: 0px; left: 0px;"></div>
 
 The Arctic is warming twice as fast as the global average [(Serreze & Barry, 2011)](https://doi.org/10.1016/j.gloplacha.2011.03.004). The cause of such rapid warming is straightforward and well understood: it is human-caused climate change, and it is altering the relative amount of the Sun's energy that is absorbed, reflected, or radiated in the Arctic. 
 
@@ -43,10 +43,10 @@ The Arctic is warming twice as fast as the global average [(Serreze & Barry, 201
 <div style="background: #ffffff; position: relative; height: 25px; right: 0px; left: 0px;"></div>
 </center>
 
-According to [15th annual NOAA Arctic Report Card](https://arctic.noaa.gov/Report-Card/Report-Card-2020), the sea ice extent in October of 2020 dropped to the lowest levels on record. Dramatic drops in Arctic ice like this are the main driver for rapid Arctic changes. Effects of a warming atmosphere on physical, chemical, biological, and human components of Arctic ecosystems are myriad, far-reaching, and accelerating (Wendisch 2017)[https://doi.org/10.1029/2017EO064803]. There is likely no facet of Arctic life that will remain untouched by the immensity of these changes.
+According to the [15th annual NOAA Arctic Report Card](https://arctic.noaa.gov/Report-Card/Report-Card-2020), the sea ice extent in October of 2020 dropped to the lowest levels on record. Dramatic drops in Arctic ice like this are the main driver for rapid Arctic changes. Effects of a warming atmosphere on physical, chemical, biological, and human components of Arctic ecosystems are myriad, far-reaching, and accelerating [Wendisch 2017](https://doi.org/10.1029/2017EO064803). There is likely no facet of Arctic life that will remain untouched by the immensity of these changes.
 
 Studying and understanding the Arctic is essential to saving it, and ultimately ourselves. The [Arctic Data Center repository](https://arcticdata.io/catalog/) is rich with real-world Arctic data just waiting to be explored. If you're ready to learn how, let's get started.
 
-The National Wildlife Federation put together this [Activity Guide](https://www.nwf.org/~/media/PDFs/Be%20Out%20There/Schoolyard%20Habitats/ArcticEnvironment.pdf) if you'd like to learn more about the Arctic and climate change.
+Additionally, the National Wildlife Federation put together this [Activity Guide](https://www.nwf.org/~/media/PDFs/Be%20Out%20There/Schoolyard%20Habitats/ArcticEnvironment.pdf) if you'd like to learn more about the Arctic and climate change.
 
 
