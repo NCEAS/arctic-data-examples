@@ -32,8 +32,79 @@ There are two journal articles associated with these 8 datasets:
 
 **What We Know**
 
-When animals reduce activity and use stored energy during seasonal food shortages, they risk degradation of skeletal muscles - although some species avoid or minimize the resulting atrophy while experiencing these conditions during hibernation. Polar bears may be food deprived and relatively inactive during winter (when pregnant females hibernate and hunting success declines for other demographic groups) as well as summer (when sea ice retreats from key foraging habitats). 
+When animals aren't moving much or don't have enough to eat, they breakdown their muscles to access that stored energy, which casuses their mucles to atrophy (or degrade). Animals that hibernate or are otherwise adapted to going without food or activity for long periods of time often have adaptive strategies to avoid that muscle loss since they have to remain alert and able to move quickly if disturbed. For example, black bears only lose 23% of their muscle mass over hibernation, while similar hibernation stragies in a human would reduce our muscle mass by 90%. However, those same adaptations used during hibernation in the winter aren't activated when an animal doesn't have enough food in the summer.
 
-**What we found out**
+That's a concern because with climate change altering the sea ice, polar bears are having to scavenge whale carcasses left by Indigenous hunters, and are experiencing food deprivation as a result. The researchers from this study looked at polar bears in the winter during hibernation and during the summer when they have less food available to see how their bodies changed in response to less food and less activity.
 
-After capturing 57 adult female polar bears to assess their body condition and measure blood variables that indicate feeding, regular fasting, and adaptive fasting, the team of researchers found that bears on shore maintained lipid and protein stores by scavenging on bowhead whale carcasses from human harvest, while those that followed the retreating sea ice beyond the continental shelf were food deprived.
+**What We Found Out**
+
+All of the polar bears sampled experienced muscle atrophy during the winter regardless of whether they hibernated or not, but they largely recovered their muscle lost during the winter during the spring and summer, when they were able to hunt successfully. That said, the difference between teh minimum and maximum extent of protein was 17% - which is high compared to other species of bears. They also noticed in their study that food deprivation may influence atrophy in muscles more than hibernation activity. With sea ice loss increasing, the risk of muscle atrophy is also increasing for polar bears. With that change in muscle, that may affect their hunting ability, especially since they travel long distances and are ambush predators that rely on surprising and then overpowering their prey.
+
+**What's In The Data**
+[polar_bear_dataset_table-3.htm](https://doi.org/10.18739/A2Z35S) - a master table showing all data associated with the study. Subtables include: 
+Bear identification - bear ID, birth date, sex
+[Morphological measurements and body condition at capture](https://doi.org/10.5065/D60V89XD) - bear ID, datetime, heart girth, neck shoulder, neck axis, skull width, skull length, total length, straight-line length, BIA length, average resistance, weight, body condition score (a visual assessment of body condition, validated in Stirling et al. 2008), and number of cubs with an adult female.
+[Blood analyses](https://doi.org/10.5065/D61N7Z8M) - bear ID, datetime, Red blood cell measurements:
+
+- δ<sup>13</sup>C signature 
+- δ<sup>15</sup>N
+- percent carbon
+- percent nitrogen
+
+Serum measurements: 
+- δ<sup>13</sup>C
+- δ<sup>15</sup>N
+- percent carbon
+- percent nitrogen
+- alanine aminotransferase
+- albumin,
+- alkaline phosphatase
+- amylase
+- total calcium
+- creatinine
+- globulin
+- glucose
+- phosphorus
+- potassium
+- sodium
+- total bilirubin
+- total protein
+- urea nitrogen
+- total cholesterol
+- high-density lipoprotein cholesterol
+- triglycerides
+- low-density lipoprotein cholesterol
+- very low-density lipoprotein cholesterol
+- total cholesterol/high-density lipoprotein cholesterol ratio
+- non-esterified fatty acids
+- phospholipids
+- all 20 serum amino acids
+- cortisol (stress hormone)
+- insulin (nutrient storage hormone)
+- ghrelin (activity hormone)
+- fatty acids
+
+Whole blood parameters:
+- white blood cell count
+- lymphocyte count
+- monocyte count
+- neutrophil count
+- eosinophil
+- basophil
+- red blood cell count
+- hemoglobin
+- hematocrit
+- mean corpuscular volume
+- mean corpuscular hemoglobin
+- mean corpuscular hemoglobin concentration
+- red blood cell distribution width
+- platelet count
+- platelet hematocrit
+- mean platelet volume
+- platelet distribution width
+
+[Muscle analyses](https://doi.org/10.5065/D6RR1WDV) - bear ID, datetime, % type 1 fiber, cross-sectional area of Type I fibers, cross-sectional area of Type II fibers,	DNA content, Muscle δ<sup>13</sup>C, Muscle δ<sup>15</sup>N, muscle percent carbon, mucle percent nitrogen, and protein content.
+[Adipose analyses](https://doi.org/10.5065/D6H41PJS) - bear ID, datetime, Adipose δ<sup>13</sup>C, Adipose percent carbon, Adipose percent nitrogen, Subcutaneous fat thickness, Adipose lipid saturated fatty acids (% saturated), Adipose lipid content.
+[Breath analyses](https://doi.org/10.5065/D6HD7SS6) - bear ID, datetime, Breath δ<sup>13</sup>C, Respiratory Exchange Ratio (Carbon dioxide produced/oxygen consumed, per unit time).
+[Location and movements](https://doi.org/10.5065/D6K072D2) - bear ID, datetime, Latitude and longitude, temperature, activity score, salt water sensor.
+[Body temperature](https://doi.org/10.5065/D6T43R6P) - bear ID, datetime, Subcutaneous temperature, Abdominal temperature.
