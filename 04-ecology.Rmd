@@ -19,13 +19,25 @@ The full paper associated with this dataset is avalible [here](https://bsapubs.o
 
 **What We Know**
 
-The cold season in the Arctic extends over 8 to 9 months, yet little is known about what happens inside vascular plant physiology during this period. Evergreen species like pines photosynthesize under the snow, implying that they are exchanging water with the atmosphere. However, liquid water available for plant uptake may be limited at this time. 
+We learn in school that photosynthesis is the process by which plants make glucose (energy) from the sun. The assumption there is that plants can only do that when it's sunny out, but that's not true - in fact, evergreen plants can phtosynthesize at any time of the year, including winter, if conditions are favorable. Evergreen plants (like pines) in the Arctic can even do so when their leaves are covered in snow, which may help them offset cellular respiration carbon loss that happens in the winter. That said, the plants still need water to photosynthesize, and it's unclear at this time how the plants obtain the water from the frozen soil. This study wanted to find out how that happens, so they enriched meltwater with a hydrogen isotope to see if plants were rehydrating during the winter via their roots or via their leaves.
 
 **What we found out**
 
-Evergreen tundra plants take up water under snow cover, some via roots, but also likely by foliar, or leaf, uptake. The ability to take up water in the subnivean (underneath the snow) environment allows evergreen tundra plants to take advantage of mild spring conditions under the snow and replenish carbon lost by winter respiration.
-
+Based on the results of these experiments, it seems like evergreen tundra plants do take up water under snow cover both via roots and leaves. The results from the community of plants as well as on the individual plant level confirm that there was more of the enriched hydrogen in the plant than the baseline enriched hydrogen in the ground on all of the sampling days (Figure 1).
 <br>
+<center>
+![](images/enriched.jpeg)
+*Figure 1 from Moser et al. 2016: Enriched hydrogen (y axis) increased in leaves and stems relative to the baseline (triangle symbol). ([Source](https://doi.org/10.3732/ajb.1500358): Moser, J. G., Oberbauer, S. F., Sternberg, L. D. S., Ellsworth, P. Z., Starr, G., Mortazavi, B., & Olivas, P. C. (2016). Water uptake of Alaskan tundra evergreens during the winter–spring transition. American journal of botany, 103(2), 298-306.*
+</center> 
+<br>
+
+Disturbing the soil increased uptake of the tracer water, since that would fracture the top ice layer and let more water into the soil pores. These evergreen plants have likely adapted to uptake water in the winter to offset their carbon losses due to respiration - tundra plants are small, and don't have the large storage capacity of more southern trees.
+
+**What's in the Data**
+
+This dataset has 3 raw data files associated with it, plus the metadata, that all have the same attributes: Study location, coordinates, date, species, treatment (control or labeled), day of experiment, change in the <sup>2</sup>H content (in parts per thousand), and the plant community. Additionally, there is a column for comments.
+
+<p>
 </p>
 
 ## Effects of aufeis on the structure and function of Arctic river-floodplain ecosystems, Alaska {-#my-section}
