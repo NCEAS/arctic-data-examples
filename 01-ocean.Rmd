@@ -15,7 +15,7 @@ The Arctic Ocean is forecasted to shift to a seasonally ice-free ocean resulting
 <p>
 **The Data**
 
-[Frost flowers on young Arctic sea ice: The climatic, chemical and microbial significance of an emerging ice type](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2N036)
+[Frost flowers in Arctic winter: Sea-to-air transport of microbes and viruses.](https://arcticdata.io/catalog/view/urn%3Auuid%3A50417411-7b5f-4835-96fa-5eb835f980df)
 
 This dataset is brought to you by [ Jody W. Deming](https://www.ocean.washington.edu/story/Jody_Deming_Ecosystem) (she/her), an American oceanographer. She is a professor of Oceanography and a marine microbiologist at the University of Washington. Her research interests include studies of cold adapted microbes in their relation to astrobiology, biotechnology, and bioremediation.
 
@@ -52,3 +52,11 @@ With more forst flowers expected in the future, more study is needed in all thre
 <br>
 <p>
 *What the frost flowers looked like a) when the pond ice was first cut and b) after 3 hours into the experiment, and c) a close up after 48 hours. Figure from  Barber et al. 2014.*
+
+**What's in the Data**
+
+This parent dataset contains 3 nested datasets:
+
+- [Bacterial and extracellular polysaccharide content of brine-wetted snow over Arctic winter first-year ice](https://doi.org/10.18739/A2H92P)
+- [Frost flowers on young Arctic sea ice: The climatic, chemical and microbial significance of an emerging ice type](https://doi.org/10.18739/A2N036)
+- [Elevated bacterial abundance and exopolymers in saline frost flowers and implications for atmospheric chemistry and microbial dispersal](https://doi.org/10.18739/A2RS66)
