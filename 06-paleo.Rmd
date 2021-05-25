@@ -46,3 +46,19 @@ The St. Paul mammoth demise is now one of the best-dated prehistoric extinctions
 
 *Paleoenvironmental proxies at Lake Hill, plotted against time. Shown are relative abundances of planktonic (blue bars), tychoplanktonic (maroon bars), and high-conductivity–tolerant diatoms (orange bars); ratio of pelagic and littoral cladocerans (gray curve); relative abundance (%) of cladoceran Alona circumfibriata, which is tolerant of high lake water conductivity (purple bars); δ18O values from aquatic invertebrate chitin (blue curve); δ15N values from mammoth collagen (red curve); sediment magnetic susceptibility (in AU); and accumulation rates for herb and shrub pollen types (light green and tan curves, respectively). The estimated timing of extinction is indicated by the yellow vertical bar (Graham et al. 2016).*
 <center> 
+
+**What's in the Data**
+
+This dataset has been semantically annoted, which means the definitions to the variables are well marked and traceable to other datasets containing similar information. Mouse over the green checkmark on the attribute tables to learn more about the measurement and be taken to similar data!
+
+The different data files are:
+
+- AgeModel.csv - data describing the sample on which carbon dating was performed
+- Chiro.csv - collected data from from the chironomidae family and other insect matter
+- Cladoceran.csv - collected data regarding samples from the order of small crusteceans Cladoceran
+- CN.csv - carbon-nitrogen ratio with delta-thirteen-C and delta-fifteen-N
+- Diatoms.csv - data regarding the group Diatom, the most common type of algae/phytoplankton
+- MCD.csv - data surrounding the calculation of mean composite depths from the various cores
+- Pollen_Sporormiella.csv - samples drawn from pollen and Sporormiella, a genus of fungi
+- Results14c.csv - data from collected samples sent to the Kack Carbon Cycle AMS Facility in UCI
+- Tephras_LOI.csv - data surrounding tephras samples, a fragmental material produced by a volcanic eruption and loss of ignition
