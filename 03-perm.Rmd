@@ -30,3 +30,12 @@ The researchers analyzed freeze–thaw processes through in situ CO<sub>2</sub> 
 *Figure 6 from Arndt et al. 2020: a schematic showing what the permafrost soils look like in terms of ice, water, and gas.*
 </center> 
 <p>
+
+**What's In The Data**
+
+This dataset has four variables: 
+
+- date
+- thaw_depth: depth of thaw measured from the soil surface in centimeters. Negative values are used to indicate depth below the surface
+- water_table: Height of the water table in centimeters measured from the soil surface. Negative values indicate distance below the soil surface, and positive values indicate distance above the soil surface
+- site
