@@ -33,6 +33,10 @@ According to [NOAA's Arctic Report Card](https://arctic.noaa.gov/Report-Card/Rep
 
 Growing season latent and sensible heat flux are nearly equal over the Arctic permafrost tundra regions. [″Sensible heat″ is ″sensed″ or felt in a process as a change in the land's temperature. ″Latent heat″ is energy transferred in a process without change of the land's temperature, for example, in a phase change (solid/liquid/gas).](https://en.wikipedia.org/wiki/Latent_heat#Usage) Persistent ground heat flux into the subsurface layer leads to seasonal thaw of the top permafrost layer. The Maximum Energy Production model described in this paper accurately estimates the latent, sensible, and ground heat flux of the surface energy budget of the Arctic permafrost regions.
 
+**What's In The Data**
+
+This dataset contains two .csv files for the tundra energy budget and for the tree energy budget. They both contain the same variables: datetime (summer),	Net Radiation (W/sq m),	Shortwave Down (W/sq m),	Shortwave Up (W/sq m),	Air Temperature (Celsius),	Surface Skin Temperature (Celsius),	Relative Humidity (decimal),	Surface Specific Humidity (kg/kg),	Wind Speed (m/s),	SapflowSignal
+
 ## Atmospheric tracers for Arctic wildfires, air pollution, atmospheric chemistry, and climate change at GEOSummit, Greenland {-#section-two}
 
 <center>
@@ -54,3 +58,11 @@ There has been a major increase in Arctic wildfires in recent years [(Masrur et 
 **What the data is about**
 
 This continually updating dataset is an archive of methane, carbon monoxide, carbon dioxide, and volatile organic compounds (ethane, propane, iso-butane, n-butane, acetylene, iso-pentane, n-pentane, n-hexane, benzene, toluene) in ambient air mixing ratios collected at GEOSummit since 2018, and updated regularly. These observations have been and will continue to be applied in modeling research to simulate Arctic wildfires, and to assess climate change-induced increases in Arctic wildfires and their feedback on the Arctic environment.
+
+**What's In The Data**
+
+This is a dataset that's updated frequently due to the requirements of the Arctic Observing Network. Four major variables of ambient air mixing ratios are tracked hourly:
+-Methane (CH<sub>4</sub>) in 2018-2019 and 2020
+-Carbon Monoxide (CO) in 2019 and 2020
+-Carbon Dioxide (CO<sub>2</sub>) in 2019 and 2020
+-Volatile organic compounds (VOCs; ethane, propane, iso-butane, n-butane, acetylene, iso-pentane, n-pentane, n-hexane, benzene, toluene) in 2018-2019
