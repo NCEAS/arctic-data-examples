@@ -38,3 +38,7 @@ After measuring soil organic matter displacement, ecosystem respiration (ie, all
 ![](images/Conceptual.png)
 *Figure 10 from Abbott & Jones 2015 - a conceptual model of the three thermokarst morphologies and their effects on the carbon and nitrogen cycles.*
 </center>
+
+**What's in the Data**
+
+This is a dataset with a LOT of datasets (23 nested datasets in total). Overall it contains soil respiration, water chemistry, and soil gas data for thermokarst and reference tundra sites on the North Slope of Alaska. Explore!
