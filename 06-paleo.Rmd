@@ -6,7 +6,7 @@ Paleontology is the study of the history of life on Earth as based on fossils. F
 
 Paleoecology is the study of interactions between once-living organisms and their environmental surroundings. Interactions between organisms can take a variety of forms, including competition between similar organisms for resources, predation of one organism by another, and symbiosis between different organisms to enable each organism to survive and reproduce. Read more [here](https://www.digitalatlasofancientlife.org/learn/paleoecology/).
 
-## Using sediment core data to better understand the woolly mammoth extinction {-#new-section}
+## Using sediment core data to better understand the woolly mammoth extinction {-#paleo-section}
 
 ![](images/mammoths.png)
 <br>
@@ -22,9 +22,7 @@ The full paper associated with this dataset is available [here](https://www.pnas
 
 **What We Know**
 
-Relict woolly mammoth (Mammuthus primigenius) populations survived on several small [Beringian](https://www.nps.gov/articles/aps-v12-i2-c8.htm) islands for thousands of years after mainland populations went extinct.
-
-Five independent indicators of extinction show that mammoths survived on St. Paul - one of those islands - until 5,600 ± 100 years ago. Vegetation composition remained stable during the extinction window, and there is no evidence of human presence on the island before 1787 CE, suggesting that neither of these factors were extinction drivers. 
+Even though most mainland woolly mammoth (Mammuthus primigenius) populations went extinct on mainland North America around 14,000 years ago, some populations survived on several small [Beringian](https://www.nps.gov/articles/aps-v12-i2-c8.htm) islands for thousands of years later. Specifically, woolly mammoth populations on St. Paul Island were likely alive until about 6,000 years ago. Normally, extinction happens because of environmental change, human impacts, or a combination of both. But, St. Paul Island wasn't populated by humans until the 1700s, so these researchers were able to study when and why these mammals went extinct specifically from environmental change. The prevailing hypotheses as to why these animals died out were that there was a change in vegetation or an increase in snowpack; these authors used sediment core proxy methods and radio carbon dating of 14 newly discovered mammoth remains to better understand what happened.
 
 **What we found out**
 
