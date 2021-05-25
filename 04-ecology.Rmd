@@ -82,3 +82,12 @@ This large habitat was unexpected, so these conclusions are (pardon the pun!) gr
 *Rarefaction curves for invertebrates sampled from aufeis wells (closed circles) and surface sediments (open circles). The mean cumulative number of taxa per number of samples is plotted as a function of accumulated number of individuals sampled.*
 
 *Note: In ecology, [rarefaction](https://en.wikipedia.org/wiki/Rarefaction_(ecology)) is a technique to assess species richness from the results of sampling. Rarefaction allows the calculation of species richness for a given number of individual samples based on the construction of so-called rarefaction curves. This curve is a plot of the number of species as a function of the number of samples. Rarefaction curves generally grow rapidly at first, as the most common species are found, but the curves plateau as only the rarest species remain to be sampled.*
+
+**What's In The Data**
+
+There are four files in this dataset:
+
+- Kup_Aufeis_well_data.csv: well, date, absolute_pressure_barometric, absolute_pressure, temperature, northing, easting, latitude, longitude, elevation, horizontal_precision, vertical_precision, notes
+- Kup_Afeis_met_station_data.csv: date, rain, temperature, RH_percentage, wind_speed, gust_speed, pressure, wind_direction, PAR, solar_radiation, temperature_DewPt
+- stream_channel_data.csv: transect, date, battery, temperature, dissolved_oxygen, dissolved_oxygen_saturation
+- Location_Data_for_Kup_Aufeis_Instruments.csv: point ID, northing, easting, latitude, longitude, elevation, horizontal_precision, vertical_precision, notes
