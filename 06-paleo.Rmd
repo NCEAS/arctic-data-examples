@@ -26,9 +26,17 @@ Even though most mainland woolly mammoth (Mammuthus primigenius) populations wen
 
 **What we found out**
 
-Instead, the extinction coincided with declining freshwater resources and drier climates between 7,850 and 5,600 years ago, as inferred from sedimentary magnetic susceptibility, oxygen isotopes, and diatom and cladoceran assemblages in a sediment core from a freshwater lake on the island, and stable nitrogen isotopes from mammoth remains. 
+The authors were able to pretty precisely pinpoint when the extinction happened: 5,600 +- 100 years ago. All five of the independent indicators that the team measured (sedimentary ancient DNA, 3 different fungi, and the radio carbon dating) agreed, and this study is the most robust and precise estimate of an extinction ever recorded.
 
-Contrary to other extinction models for the St. Paul mammoth population, this new evidence indicates that this mammoth population died out because of the synergistic effects of shrinking island area and freshwater scarcity caused by rising sea levels and regional climate change. Degradation of water quality by intensified mammoth activity around the lake likely exacerbated the situation. The St. Paul mammoth demise is now one of the best-dated prehistoric extinctions, highlighting freshwater limitation as an overlooked extinction driver and underscoring the vulnerability of small island populations to environmental change, even in the absence of human influence.
+<center>
+![](images/MammothLine.png)
+*Photo credit: Graham et al. 2016 Figure 2. Caption from the paper: Timing of woolly mammoth extinction on St. Paul. Five indicators are plotted against time (calendar years before 1950 CE): sedimentary ancient DNA (sedaDNA; green and red circles indicate inferred presence and absence, respectively), direct AMS radiocarbon dates on mammoth remains (black crosses), and spore accumulation rates for the coprophilous fungi Sporormiella (medium green, bottom of stack), Sordaria (light green, middle), and Podospora (dark green, top) (spores yr-1 cm-2). Magnetic susceptibility, in arbitrary units (AU) of Lake Hill sediments, sea level (m), and St. Paul Island area (km2) are shown for comparison. Note the truncation by plot of highest peak of magnetic susceptibility at 1,500 AU. The yellow band indicates inferred timing of extinction at 5,600 ± 100 y ago. Magnetic susceptibility is a measure of sediment characteristics; its rapid decline indicates a rapid reduction in watershed erosion at the same time as the extinction.*
+<br>
+</center> 
+
+The major drivers behind this extinction were all related to freshwater availability on the island: lake shallowing, increased water turbidity, and increased salinity. Without fresh water, of course, mammoths would be unable to survive. Understanding why the freshwater decreased is a more difficult endeavor, and the authors hypothesized that it was related to sea level rise, climate change, and overuse of the freshwater resource by the mammoths.
+
+The St. Paul mammoth demise is now one of the best-dated prehistoric extinctions, highlighting freshwater limitation as an overlooked extinction driver and underscoring the vulnerability of small island populations to environmental change, even in the absence of human influence.
 </p>
 <br>
 <center> 
