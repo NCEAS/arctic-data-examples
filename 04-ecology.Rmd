@@ -56,13 +56,23 @@ The paper associated with this dataset is avalible [here](https://aslopubs.onlin
 
 **What We Know**
 
-[Aufeis](https://www.polartrec.com/expeditions/microbial-changes-in-arctic-freshwater-2016/journals/2016-06-20) (German for "ice on top") is a collection of massive accumulations of ice that are common to many Arctic rivers. It forms during freeze-up when thickening surface ice on the river causes local overflows. Successive cycles of overflow result in accumulations of enormous volumes of ice, with aufeis on some Alaskan rivers attaining thicknesses of 3-5 meters (9-15 feet), covering more than 20 square kilometers (7.72 square miles), and storing as much as 30% of the annual river discharge. 
+[Aufeis](https://www.polartrec.com/expeditions/microbial-changes-in-arctic-freshwater-2016/journals/2016-06-20) (German for "on ice") is a collection of massive accumulations of ice that are common to many Arctic rivers. It forms at river "choke points" where the water is forced upwards on top of the ice, and then freezes in layers. Successive cycles of overflow result in accumulations of enormous volumes of ice, with aufeis on some Alaskan rivers attaining thicknesses of 3-5 meters (9-15 feet), covering more than 20 square kilometers (7.72 square miles), and storing as much as 30% of the annual river discharge.  When they thaw, they leave aufeis "barrens", areas where vascular plants won't grow due to the ice cover. They serve as water sources in the summer, local habitat for fish and mammals, and also as perenially unforzen real estate for communities of groundwater invertebrates. As many as 80 different species create complex food and nutient webs in these aufeis sediments.
 
-Although aufeis has been studied by hydrologists and is known to be required for winter and spawning habitat for some fish, understanding of their ecology is poor.
+Although aufeis has been studied by hydrologists and is known to be required for winter and spawning habitat for some fish, understanding of their ecology is poor. The goal of this study was to document the groundwater invertebrate communities and establish aufeis as an important habitat area for these organisms.
 
 **What we found out**
 
-The Kuparuk aufeis field provides subsurface habitat for a rich assemblage of freshwater invertebrates, which are distinct from those that live in surface level habitats. This level of richness is presumably enabled by the relatively high porosity of the subsurface sediments combined with a high level of connectivity between pore spaces. To our knowledge, this is the first demonstration of a groundwater (e.g., hyporheic/parafluvial/groundwater) invertebrate fauna in a region of continuous permafrost.
+The Kuparuk aufeis field that these authors investigate provides subsurface habitat for approximately 50 different species of freshwater invertebrates, which are largely different from those that live on the surface level habitats. The diversity found here is likely made possible by the high porosity (ie, lots of empty space) of the subsurface sediments, combined with a high level of connectivity between those pore spaces. Additionally, the subsurface habitat likely saw higher levels of species richness due to variety in the environment - the authors demonstrated that there were areas of upwelling and downwelling in the pore spaces. 
+
+</p>
+<br>
+<center>
+![](images/AufeisComm.png)
+</center>
+<p>
+*Figure 6 from Huryn et al 2020 showing some of the groundwater invertebrates in the subsurface habitat.*
+
+This large habitat was unexpected, so these conclusions are (pardon the pun!) groundbreaking! Previously, it was thought that the permafrost underlying the stream sediments would be frozen solid, leaving this rich community of invertebrates no habitat to colonize.
 </p>
 <br>
 <center>
