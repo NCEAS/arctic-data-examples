@@ -35,7 +35,7 @@ Growing season latent and sensible heat flux are nearly equal over the Arctic pe
 
 **What's In The Data**
 
-This dataset contains two .csv files for the tundra energy budget and for the tree energy budget. They both contain the same variables: datetime (summer),	Net Radiation (W/sq m),	Shortwave Down (W/sq m),	Shortwave Up (W/sq m),	Air Temperature (Celsius),	Surface Skin Temperature (Celsius),	Relative Humidity (decimal),	Surface Specific Humidity (kg/kg),	Wind Speed (m/s),	SapflowSignal
+This dataset contains two .csv files for the tundra energy budget and for the tree energy budget. They both contain the same variables: datetime (summer), Net Radiation (W/sq m), Shortwave Down (W/sq m), Shortwave Up (W/sq m), Air Temperature (Celsius), Surface Skin Temperature (Celsius), Relative Humidity (decimal), Surface Specific Humidity (kg/kg), Wind Speed (m/s), SapflowSignal
 
 ## Atmospheric tracers for Arctic wildfires, air pollution, atmospheric chemistry, and climate change at GEOSummit, Greenland {-#section-two}
 
